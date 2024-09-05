@@ -1,5 +1,5 @@
 {
-	"name": "Monokai Underdark MK",
+    "name": "Monokai Underdark MK",
     "type": "dark",
     "semanticHighlighting": true,
     "semanticTokenColors": {
@@ -58,7 +58,8 @@
             "settings": {
                 "foreground": "#66D9EF"
             }
-        },{
+        },
+        {
             "scope": "meta.attribute.python",
             "settings": {
                 "foreground": "#E0E0E0"
@@ -172,13 +173,6 @@
                 "fontStyle": ""
             }
         },
-        // {
-        // 	"scope": "support.function",
-        // 	"settings": {
-        // 		"foreground": "#66D9EF",
-        // 		"fontStyle": ""
-        // 	}
-        // },
         {
             "scope": "support.constant",
             "settings": {
@@ -730,6 +724,6 @@
         "editorGutter.commentRangeForeground": "#eeeeee",
         "debugExceptionWidget.background": "#111111",
         "debugExceptionWidget.border": "#00000000",
-        "window.activeBorder": "#111111",
+        "window.activeBorder": "#111111"
     }
 }
