@@ -9,4 +9,4 @@ I added some **minor** adjustments to the **Token Colors** according to my prefe
 
 # Screenshot
 
-[Screenshot](Screenshot.png)
+![Screenshot](Screenshot.png)
