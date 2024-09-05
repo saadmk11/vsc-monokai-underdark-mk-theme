@@ -1,0 +1,29 @@
+{
+  "name": "monokai-underdark-mk",
+  "displayName": "Monokai Underdark MK",
+  "description": "A Customized Monokai Underdark Theme",
+  "version": "0.0.1",
+  "publisher": "saadmk11",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/saadmk11/vsc-monokai-underdark-mk-theme"
+	},
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Underdark MK",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-underdark-mk-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+		"publish": "vsce publish"
+	}
+}
