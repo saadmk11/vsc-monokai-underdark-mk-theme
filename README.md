@@ -6,3 +6,7 @@ This theme is the combination of:
 - [Monokai Underdark](https://marketplace.visualstudio.com/items?itemName=zrthxn.monokai-underdark): Token Colors
 
 I added some **minor** adjustments to the **Token Colors** according to my preference.
+
+# Screenshot
+
+[Screenshot](Screenshot.png)
